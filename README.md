@@ -24,9 +24,9 @@ The lack of hybridization in related works means that the density of information
 We propose to: 
 
 - [x] Create weather station(s) able to collect and send weather data within usable sensor accuracy.
-    - [ ] Set up a weather station at or near the Växjö Kronoberg Airport.
+    - [x] Set up a weather station at or near the Växjö Kronoberg Airport.
 
-    - [ ] Compare the accuracy of the readings against the data of the Växjö Airport.
+    - [x] Compare the accuracy of the readings against the data of the Växjö Airport.
 
 - [x] Create/host a server which is able to accept multiple connections from these stations and process and store the incoming data.
 
